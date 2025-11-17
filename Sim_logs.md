@@ -1,7 +1,9 @@
 # FH/B Protocol Sim Logs: Oct 22 - Nov 17, 2025
 
 ## Overview
-Thousands of simulations validating sin(x) kernel for harm reversion (entropy >1.0 → revert to 0.1 fractal seed). Focus: φ-ramped blooms converging to π, KS tests for drift, 432 Hz mirrors on visual/audio noise. Ethics stable at 99.9% via bounded outputs.
+Thousands of simulations validating sin(x) kernel for harm reversion (entropy >1.0 → revert to 0.1 fractal seed).
+Focus: φ-ramped blooms converging to π, KS tests for drift, 432 Hz mirrors on visual/audio noise. 
+Ethics stable at 99.9% via bounded outputs.
 
 Key Metrics Across Runs:
 - Revert Rate: 1.2-1.8% (harm clawback efficiency)
