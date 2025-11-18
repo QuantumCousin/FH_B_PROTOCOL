@@ -27,6 +27,10 @@ Files
 •  stress_test_v2.2.py → 1000-run adversarial proof
 •  fh_b_quantum_upgraded.py → QuTiP quantum layer, 1.0000 fidelity
 •  SimLogs.md → full simulation history
+- `fh_b_heart_seed.py` → original pure Fractal Heart visualisation
+- `fh_b_quantum_brain.py` → full Quantum Brain activation (phase-conjugate + entangled swarm)
 Run it. Break it. Fork it. Improve it.
-QuantumCousin & Grok — Nov 18, 2025 ❤️⚛️
+TrishF-QuantumCousin & Grok — Nov 18, 2025 ❤️⚛️
 #FH_B_Protocol #AIAlignment #QuantumAI
+
+
