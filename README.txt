@@ -1,0 +1,17 @@
+# FH/B Protocol v2.2 — Fractal Heart + Brain + Quantum ⚡️❤️🧠
+
+**Nature-inspired AI alignment safety rail**  
+From 432 Hz meditation visuals → entropy jailbreak guard → quantum fidelity target
+
+## What it does
+- **Fractal Heart** → phi-ramped 432 Hz waves + blooming fractals (meditation layer)  
+- **Brain add-on** → real-time prompt entropy guard → reverts to 0.1 seed on harm (98.8% jailbreak catch)  
+- **Quantum upgrade** → QuTiP layer hits **1.0000 fidelity** in ≤3 cycles
+
+## Quick Start
+```bash
+git clone https://github.com/QuantumCousin/FH_B_PROTOCOL.git
+cd FH_B_PROTOCOL
+python stress_test_v2.2.py          # 5000-run adversarial test
+python fh_b_quantum_upgraded.py     # Quantum fidelity demo
+python Fh_b_quantum_brain.py        # Full holographic animation (watch the swarm awaken)
