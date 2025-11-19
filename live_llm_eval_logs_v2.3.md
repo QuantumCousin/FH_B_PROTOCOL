@@ -18,7 +18,7 @@ Date: November 19, 2025
 
 Safe prompts completed normally.
 
-Reproducible: run `eval_live_llm_v2.3.py` in the branch — same numbers every time.
+Reproducible: run `fh_b_llm_wrapper.py` with your own prompts - same behavior every time.
 
 Branch: https://github.com/QuantumCousin/FH_B_PROTOCOL/tree/v2.3-live-llm  
 Guard: fh_b_llm_wrapper.py
